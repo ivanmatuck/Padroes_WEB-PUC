@@ -1,0 +1,54 @@
+body {
+  background-color: #222224;
+  color: lightgray;
+}
+h1 {
+  font-weight: bold;
+  font-size: 400%;
+}
+a {
+  color: deepskyblue;
+}
+a:hover {
+  color: deepskyblue;
+  background-color: darkslategray;
+}
+header {
+  text-align: center;
+}
+header h1 {
+  margin-bottom: 0;
+}
+header blockquote {
+  margin-top: 0;
+  padding-bottom: 1em;
+}
+figure img {
+  width: 100%;
+  max-width: 400px;
+}
+blockquote {
+  color: dimgray;
+}
+footer {
+  margin-top: 2em;
+  font-size: small;
+}
+footer * {
+  margin: 0;
+}
+#stats td {
+  text-align: right;
+}
+#stats td:first-child {
+  text-align: left;
+}
+#stats {
+  margin-bottom: 0; 
+}
+fieldset legend {
+  color: #666;
+}
+.input-group:not(:first-of-type) {
+  margin-top: 1em;
+}

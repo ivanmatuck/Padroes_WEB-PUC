@@ -1,0 +1,18 @@
+{"listaDeProdutos": [
+        {
+            "código": 1,
+            "nome": "Torradeira",
+            "preço": 134.50
+        },
+        {
+            "código": 2,
+            "nome": "cafeteira",
+            "preço": 120.30
+        },
+        {
+            "código": 3,
+            "nome": "Refrigerador",
+            "preço": 1240.00
+        }
+    ]
+}
